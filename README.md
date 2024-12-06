@@ -1,4 +1,5 @@
 **Clustering and Topic Modeling of Movie Review**
+
 This repository contains the code for the project "Clustering and Topic Modeling of Movie Review ", which analyzes movie reviews to group them into meaningful clusters and identify hidden themes using topic modeling techniques.
 
 **Project Overview**
@@ -20,5 +21,4 @@ The dataset used is the Rotten Tomatoes Movies and Critic Reviews dataset, which
 Due to its large size, the dataset is not included in this repository. You can download it directly from Kaggle using the following link:
 [Rotten Tomatoes Movies and Critic Reviews Dataset.](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset) rotten_tomatoes_critic_reviews.csv(226.05 MB)
 
-Once downloaded, place the file in the appropriate directory to use with the code.
 
