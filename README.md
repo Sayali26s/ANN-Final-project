@@ -8,13 +8,17 @@ The project focuses on:
 
 **Dependencies**
 Ensure the following dependencies are installed before running the code:
-!pip install kneed
-!pip install spacy
-!python -m spacy download en_core_web_sm
-!pip install bertopic
-!pip install pyLDAvis
+- !pip install kneed
+- !pip install spacy
+- !python -m spacy download en_core_web_sm
+- !pip install bertopic
+- !pip install pyLDAvis
 
 **Dataset:**
 The dataset used is the Rotten Tomatoes Movies and Critic Reviews dataset, which contains critic reviews of movies.
-Download the dataset from Kaggle 
-https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
+
+Due to its large size, the dataset is not included in this repository. You can download it directly from Kaggle using the following link:
+[Rotten Tomatoes Movies and Critic Reviews Dataset.](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset) rotten_tomatoes_critic_reviews.csv(226.05 MB)
+
+Once downloaded, place the file in the appropriate directory to use with the code.
+
